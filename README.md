@@ -1,4 +1,3 @@
-# Omnifood-project
 # Omnifood - Your Online Food Delivery Solution
 
 Welcome to Omnifood, your go-to platform for ordering food online from a variety of local restaurants. This project was created as part of my journey to becoming a successful full stack developer. With Omnifood, you can explore a diverse range of cuisines, place orders with ease, and enjoy delicious meals delivered right to your doorstep.
